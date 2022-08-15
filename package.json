@@ -1,8 +1,5 @@
 {
   "name": "zenn-docs",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "author": "Fus1onDev",
   "dependencies": {
     "zenn-cli": ">0.1.117"
