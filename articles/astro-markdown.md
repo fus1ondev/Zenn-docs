@@ -1,5 +1,5 @@
 ---
-title: "Astro + zenn-markdown-htmlで爆速ブログ構築"
+title: "Astroで爆速Markdownブログ構築"
 emoji: "💨"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["astro","jamstack","markdown"]
