@@ -14,7 +14,7 @@ Cookieを使用しないので、EUのGDPRで定められている「このサ�
 
 https://umami.is/
 
-将来的にはクラウドプラン（？）も用意されるみたいですが、現状はセルフホストする前提となっているようです。
+将来的にはクラウドプラン（？）も用意されるみたいですが、現状はセルフホストが前提となっています。
 
 https://umami.is/docs/getting-started
 
@@ -201,17 +201,17 @@ brew install postgresql
 
 設定画面から「Webサイトの追加」をクリックしてサイト名とURLを登録します。
 
+![](https://storage.googleapis.com/zenn-user-upload/65c4febfb89a-20220828.png)
+
 次に、リストの右側の4つ並んだアイコンの一番左を押し、出てきたHTMLタグをコピーして自分のサイトの`<head>`などに追加してください。
 
 ![](https://storage.googleapis.com/zenn-user-upload/edd1afa3010f-20220828.png)
-
-![](https://storage.googleapis.com/zenn-user-upload/65c4febfb89a-20220828.png)
 
 ## おわりに
 
 以上で完了です。
 
-試しにアクセスしてみると、無事表示されました。
+試しに自分のサイトにアクセスしてみると、無事グラフが表示されました。
 
 閲覧者のOS、デバイス、ブラウザ、国などが取得でき、現在の閲覧者のリアルタイム表示もできるのでGoogleアナリティクスなどと比べても遜色ないと思います。
 
