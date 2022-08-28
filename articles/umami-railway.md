@@ -16,6 +16,8 @@ https://umami.is/
 
 将来的にはクラウドプラン（？）も用意されるみたいですが、現状はセルフホストが前提となっています。
 
+セルフホストの場合は、Node.jsの実行環境と、MySQLまたはPostgreSQLが必要です。
+
 https://umami.is/docs/getting-started
 
 ドキュメントには、NetlifyやVercel、DigitalOcean、Supabaseなど色々なホスティングサービスやデータベースへのデプロイ方法が書いてありますが、今回は「Railway」を使って無料で構築してみます。
